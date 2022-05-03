@@ -1,2 +1,2 @@
-# matrail
+# material
 notes
